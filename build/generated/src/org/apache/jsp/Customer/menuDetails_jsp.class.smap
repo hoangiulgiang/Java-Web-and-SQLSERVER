@@ -1,0 +1,45 @@
+SMAP
+menuDetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 menuDetails.jsp
+Customer/menuDetails.jsp
++ 1 headerCustomer.jsp
+Customer/../components/headerCustomer.jsp
++ 2 footerCustomer.jsp
+Customer/../components/footerCustomer.jsp
+*L
+5,12:63
+5#1,23:75
+27:242,8
+28,10:250
+37,3:100
+39:278,8
+40,2:286
+42:288,3
+43,6:291
+48,2:105
+49:315,8
+50,6:323
+55,4:109
+16#0,5:112
+21:117,3
+22,4:120
+26:124,3
+27,2:127
+29,4:129,3
+33,3:141
+35:347,11
+36:358
+37,3:359,3
+40,2:368
+41,2:146
+42:394,8
+43,6:402
+48,5:150
+53:155,3
+54,4:158
+5#2,46:162
+57#0,18:207
+*E
